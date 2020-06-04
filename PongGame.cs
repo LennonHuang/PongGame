@@ -80,16 +80,6 @@ namespace PongGame
 
         }
 
-        private void paddle2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void informationBox_Click(object sender, EventArgs e)
-        {
-
-        }
-
         //Key Event, move the paddles.
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
